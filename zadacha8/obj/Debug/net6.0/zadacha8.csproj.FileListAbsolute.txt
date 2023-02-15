@@ -1,0 +1,15 @@
+C:\Users\гоша\Desktop\DZ5\zadacha8\obj\Debug\net6.0\zadacha8.csproj.AssemblyReference.cache
+C:\Users\гоша\Desktop\DZ5\zadacha8\obj\Debug\net6.0\zadacha8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\гоша\Desktop\DZ5\zadacha8\obj\Debug\net6.0\zadacha8.AssemblyInfoInputs.cache
+C:\Users\гоша\Desktop\DZ5\zadacha8\obj\Debug\net6.0\zadacha8.AssemblyInfo.cs
+C:\Users\гоша\Desktop\DZ5\zadacha8\obj\Debug\net6.0\zadacha8.csproj.CoreCompileInputs.cache
+C:\Users\гоша\Desktop\DZ5\zadacha8\bin\Debug\net6.0\zadacha8.exe
+C:\Users\гоша\Desktop\DZ5\zadacha8\bin\Debug\net6.0\zadacha8.deps.json
+C:\Users\гоша\Desktop\DZ5\zadacha8\bin\Debug\net6.0\zadacha8.runtimeconfig.json
+C:\Users\гоша\Desktop\DZ5\zadacha8\bin\Debug\net6.0\zadacha8.dll
+C:\Users\гоша\Desktop\DZ5\zadacha8\bin\Debug\net6.0\zadacha8.pdb
+C:\Users\гоша\Desktop\DZ5\zadacha8\obj\Debug\net6.0\zadacha8.dll
+C:\Users\гоша\Desktop\DZ5\zadacha8\obj\Debug\net6.0\refint\zadacha8.dll
+C:\Users\гоша\Desktop\DZ5\zadacha8\obj\Debug\net6.0\zadacha8.pdb
+C:\Users\гоша\Desktop\DZ5\zadacha8\obj\Debug\net6.0\zadacha8.genruntimeconfig.cache
+C:\Users\гоша\Desktop\DZ5\zadacha8\obj\Debug\net6.0\ref\zadacha8.dll
